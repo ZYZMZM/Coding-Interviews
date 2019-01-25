@@ -4,7 +4,7 @@
 
 ## 说明
 
-剑指中有关于数据结构的题目，如链表、栈和队列等。我们实现的这些数据结构：包括顺序栈、带头节点的单链表、不带头节点的单链表、循环队列、双端队列等，我们将其放在本项目单独的文件夹Data Struct中，当然也有单独的项目专门用来存储这些数据结构。
+剑指中有关于数据结构的题目，如链表、栈和队列等。我们实现的这些数据结构：包括[顺序栈](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/Order%20Stack)、[带头节点的单链表](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/06%20SingleLinkList%20WithHeadNode)、[不带头节点的单链表](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/CircularLinkList%20WithoutHeadNode)、[不带头结点的单向循环链表](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/CircularLinkList%20WithoutHeadNode)、[循环队列](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/Order%20Queue)、[双端队列](https://github.com/YBZMZM/Coding-Interviews/tree/master/Data%20Struct/Deque)等，我们将其放在本项目单独的文件夹Data Struct中，当然也有单独的项目专门用来存储这些数据结构。
 
 ## 题目分类
 题目按照题型整理分类如下：
@@ -107,4 +107,3 @@
 |  14  | 剪绳子         | [C](https://github.com/YBZMZM/Coding-Interviews/blob/master/Dynamic%20Programming/%E9%9D%A2%E8%AF%95%E9%A2%9814%EF%BC%9A%E5%89%AA%E7%BB%B3%E5%AD%90/CuttingRope.cpp) | C++      |
 |  47  | 礼物的最大价值 | [C](https://github.com/YBZMZM/Coding-Interviews/blob/master/Dynamic%20Programming/%E9%9D%A2%E8%AF%95%E9%A2%9847%EF%BC%9A%E7%A4%BC%E7%89%A9%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BB%B7%E5%80%BC/MaxValueOfGifts.cpp) | C++ |
 |  60  | n个骰子的点数  | [C](https://github.com/YBZMZM/Coding-Interviews/blob/master/Dynamic%20Programming/%E9%9D%A2%E8%AF%95%E9%A2%9860%EF%BC%9An%E4%B8%AA%E9%AA%B0%E5%AD%90%E7%9A%84%E7%82%B9%E6%95%B0/DicesProbability.cpp) | C++ |
-
